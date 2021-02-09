@@ -1,0 +1,3 @@
+class Author < SubBase
+
+end
